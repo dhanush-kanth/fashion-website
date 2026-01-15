@@ -8,6 +8,7 @@ I am uploading this project with daily updates to track my progress.
 - Day 2: Added CSS styling (index.css)
 - Day 3: Added JavaScript for side navbar menu (index.js)
 - Day 4: Added Collections page and search filter (collection.html + collection.js)
+- Day 5: Added Contact page (content.html)
 
 ## Technologies Used
 - HTML
@@ -20,3 +21,4 @@ I am uploading this project with daily updates to track my progress.
 
 ## Author
 Dhanush Kanth
+
